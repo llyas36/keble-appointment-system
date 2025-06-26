@@ -41,6 +41,11 @@ eKebele is a web-based application designed to modernize public service bookings
 
 
 -----------------------------------------------
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/ekebele.git](https://github.com/llyas36/keble-appointment-system.git
 
 
 # GET STARTED
@@ -56,10 +61,10 @@ eKebele is a web-based application designed to modernize public service bookings
 
 # The Project was developed using the following:
 
-> Apache Version:
-> PHP Version:
-> Server Software:
-> MySQL Version:
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Backend**: PHP 7+
+- **Database**: MySQL 
+- **Web Server**: Apache (XAMPP)
 
 
 
