@@ -1,3 +1,6 @@
+# 🏡 eKebele – Online Booking Appointment System
+
+eKebele is a web-based application designed to modernize public service bookings for local kebele administrations (like neighborhood administrations). It replaces manual appointment methods with a streamlined, role-based digital system for residents, staff, and administrators.
 
 ## Features
 
